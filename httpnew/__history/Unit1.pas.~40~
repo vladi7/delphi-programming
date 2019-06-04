@@ -1,0 +1,95 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, IdBaseComponent,
+  IdComponent, IdTCPConnection, IdTCPClient, IdHTTP, IdIOHandler,
+  IdIOHandlerSocket, IdIOHandlerStack, IdSSL, IdSSLOpenSSL;
+
+type
+  TForm1 = class(TForm)
+    IdHTTP1: TIdHTTP;
+    Button1: TButton;
+    IdSSLIOHandlerSocketOpenSSL1: TIdSSLIOHandlerSocketOpenSSL;
+    Memo1: TMemo;
+    Button2: TButton;
+    procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+  __tsl : TstringList;
+  Fnames, Fnamed : string;
+begin
+
+    Fnames:=ExtractFilepath(Application.exename)+'request.txt';
+    Fnamed:=ExtractFilepath(Application.exename)+'result.txt';
+    if not FileExists(Fnames) then Halt(0);
+    __Tsl:=TstringList.Create;
+    __Tsl.LoadFromFile(Fnames);
+//    idhttp1.IOHandler := TIdSSLIOHandlerSocketOpenSSL.Create(idhttp1);
+    try
+    With {TIdHTTP.Create(Nil)}idhttp1 do __Tsl.strings[0]:=get(__Tsl.strings[0]);
+    except
+      __tsl.clear;
+      __tsl.Add('ERROR');
+    end;
+    __Tsl.SaveToFile(Fnamed);
+    __Tsl.Destroy;
+    Halt(0);
+
+end;
+procedure TForm1.Button2Click(Sender: TObject);
+var
+  aIdClient : TidTCPClient;
+begin
+  aIdClient := TIdTCPClient.Create;
+try
+  aIdClient.Host := 'tut.by';
+  aIdClient.Port := 443;
+
+//aIdClient.IOHandler := TIdSSLIOHandlerSocketOpenSSL.Create(aIdClient);
+//TIdSSLIOHandlerSocketOpenSSL(aIdClient.IOHandler).PassThrough := False;
+ aIdClient.IOHandler :=IdSSLIOHandlerSocketOpenSSL1;
+ TIdSSLIOHandlerSocketOpenSSL(aIdClient.IOHandler).PassThrough := False;
+  aIdClient.Connect;
+  try
+    aIdClient.IOHandler.WriteLn('GET / HTTP/1.1');
+    aIdClient.IOHandler.WriteLn('Host: tut.by');
+  //  aIdClient.IOHandler.WriteLn('Connection: close');
+
+    aIdClient.IOHandler.WriteLn;
+    Memo1.Lines.Clear;
+    while True do
+
+    try
+ Memo1.Lines.Add(aIdClient.IOHandler.readln(Nil));
+    except
+    break;
+
+    end;
+
+  finally
+    aIdClient.Disconnect;
+  end;
+finally
+  aIdClient.free;
+end;
+
+end;
+
+end.

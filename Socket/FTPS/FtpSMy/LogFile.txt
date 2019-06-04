@@ -1,0 +1,886 @@
+CONNECT BELKA 20.12.2018 8:39:07
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 8:39:07
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\ 20.12.2018 8:39:09
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\ 20.12.2018 8:39:09
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\FtpServer.dpr 20.12.2018 8:39:09
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\ 20.12.2018 8:39:09
+CONNECT BELKA 20.12.2018 8:54:11
+CONNECT BELKA 20.12.2018 8:54:35
+CONNECT BELKA 20.12.2018 11:41:05
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 11:41:31
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\ 20.12.2018 11:41:33
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\ 20.12.2018 11:41:33
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\FtpServer.dpr 20.12.2018 11:41:33
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\ 20.12.2018 11:41:33
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\ 20.12.2018 11:42:43
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 11:42:43
+CONNECT BELKA 20.12.2018 11:43:28
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 11:43:28
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\ 20.12.2018 11:43:28
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\Guitar.jpg 20.12.2018 11:43:28
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\ 20.12.2018 11:43:44
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\ 20.12.2018 11:43:44
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\ 20.12.2018 11:43:44
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\Guitar.jpg 20.12.2018 11:43:44
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\\\\\\\\\\\ 20.12.2018 11:43:44
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\\\\\\\\\\\\ 20.12.2018 11:43:44
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 11:43:44
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\\\\\\\\\\\\\ 20.12.2018 11:43:57
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\\\\\\\\\\\\\\ 20.12.2018 11:43:57
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\\\\\\\\\\\\\\\ 20.12.2018 11:43:57
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\\\\\\\\\\\\\\\Guitar.jpg 20.12.2018 11:43:57
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\Data123\ 20.12.2018 11:44:45
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\Data123\\ 20.12.2018 11:44:53
+CONNECT BELKA 20.12.2018 11:45:32
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 11:45:32
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\Guitar.jpg 20.12.2018 11:45:33
+CONNECT BELKA 20.12.2018 11:48:54
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 11:48:54
+CONNECT BELKA 20.12.2018 11:50:18
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 11:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\\*.* 20.12.2018 11:50:18
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\Guitar.jpg 20.12.2018 11:50:19
+CONNECT BELKA 20.12.2018 11:51:20
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 11:51:20
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\\*.* 20.12.2018 11:51:20
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\Guitar.jpg 20.12.2018 11:51:20
+CONNECT BELKA 20.12.2018 11:51:55
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 11:51:55
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\\*.* 20.12.2018 11:54:17
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\Guitar.jpg 20.12.2018 11:54:18
+CONNECT BELKA 20.12.2018 11:55:12
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 11:55:12
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 11:55:12
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 11:55:12
+CONNECT BELKA 20.12.2018 11:56:03
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 11:56:03
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 11:57:05
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 11:57:16
+CONNECT BELKA 20.12.2018 12:02:48
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 12:02:48
+CONNECT BELKA 20.12.2018 12:02:55
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:02:55
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Guitar.jpg 20.12.2018 12:02:55
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:03:12
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 12:03:12
+CONNECT BELKA 20.12.2018 12:04:06
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 12:04:06
+CONNECT BELKA 20.12.2018 12:04:08
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:04:08
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Guitar1.jpg 20.12.2018 12:04:08
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:04:17
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 12:04:17
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\ 20.12.2018 12:05:05
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 12:05:05
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\ 20.12.2018 12:05:51
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\FtpServer.cfg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\FtpServer1.cfg 20.12.2018 12:05:51
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\Data123\ 20.12.2018 12:06:28
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\Data123\\*.* 20.12.2018 12:06:28
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\Data123\\ 20.12.2018 12:06:29
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\Data123\\\*.* 20.12.2018 12:06:29
+CONNECT BELKA 20.12.2018 12:06:57
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 12:06:57
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:07:22
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\FtpServer1.cfg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\FtpServer.cfg 20.12.2018 12:07:22
+CONNECT BELKA 20.12.2018 12:08:13
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 12:08:13
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:08:21
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\ 20.12.2018 12:08:21
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\ 20.12.2018 12:08:21
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\Guitar.jpg 20.12.2018 12:08:21
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\ 20.12.2018 12:08:21
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\ 20.12.2018 12:08:21
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 12:08:21
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\ 20.12.2018 12:08:32
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\ 20.12.2018 12:08:32
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\*.* 20.12.2018 12:08:32
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\ 20.12.2018 12:08:32
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\\\\\\\\\Guitar.jpg 20.12.2018 12:08:32
+CONNECT BELKA 20.12.2018 12:19:59
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:19:59
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:19:59
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:20:00
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:20:00
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpCMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:20:00
+CONNECT BELKA 20.12.2018 12:20:18
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 12:20:18
+CONNECT BELKA 20.12.2018 12:20:24
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\Data123\ 20.12.2018 12:20:24
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\Data123\\*.* 20.12.2018 12:20:24
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\Data123\\ 20.12.2018 12:20:38
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\Data123\\\*.* 20.12.2018 12:20:38
+CONNECT BELKA 20.12.2018 12:21:39
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:21:39
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:21:39
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:21:39
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:21:39
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpCMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:26:30
+CONNECT BELKA 20.12.2018 12:26:30
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:26:30
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:26:33
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:26:34
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:26:34
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:26:34
+CONNECT BELKA 20.12.2018 12:26:43
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:26:43
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:26:43
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:26:43
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:26:43
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:26:43
+CONNECT BELKA 20.12.2018 12:27:31
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:27:31
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:27:31
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:27:31
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:27:31
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:27:36
+CONNECT BELKA 20.12.2018 12:28:20
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:28:20
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:28:20
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:28:20
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:28:20
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:29:40
+CONNECT BELKA 20.12.2018 12:36:45
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:36:45
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:36:45
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:36:45
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:36:45
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:37:00
+CONNECT BELKA 20.12.2018 12:38:13
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123 20.12.2018 12:38:13
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP1ANs.sig 20.12.2018 12:38:13
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP2DIs.sig 20.12.2018 12:38:13
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\Data123\TEP3DIs.sig 20.12.2018 12:38:14
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP3DIs.sig C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 12:38:37
+CONNECT BELKA 20.12.2018 12:40:16
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 12:40:16
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:40:30
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 12:40:30
+CONNECT BELKA 20.12.2018 12:41:37
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 12:41:37
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 12:41:48
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 12:41:48
+CONNECT BELKA 20.12.2018 12:52:24
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 12:52:24
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 12:52:38
+CONNECT BELKA 20.12.2018 13:08:40
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:08:40
+CONNECT BELKA 20.12.2018 13:08:43
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:08:43
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:08:43
+CONNECT BELKA 20.12.2018 13:09:12
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:09:12
+CONNECT BELKA 20.12.2018 13:09:17
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:09:17
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:09:17
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:09:24
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:09:24
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:09:44
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:09:48
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:09:48
+CONNECT BELKA 20.12.2018 13:11:03
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:11:03
+CONNECT BELKA 20.12.2018 13:11:07
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:11:07
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:11:07
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:11:09
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:11:09
+CONNECT BELKA 20.12.2018 13:11:27
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:11:27
+CONNECT BELKA 20.12.2018 13:12:07
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:12:07
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:12:07
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:12:21
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:12:21
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:12:39
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:12:39
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 13:12:51
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 13:12:51
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:13:12
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:13:12
+CONNECT BELKA 20.12.2018 13:13:33
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:13:33
+CONNECT BELKA 20.12.2018 13:13:35
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:13:35
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:13:35
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:13:40
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 13:13:40
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:13:50
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:13:50
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:14:06
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:14:06
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:14:45
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:14:51
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:14:51
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\TEP33333DIs.sig 20.12.2018 13:15:33
+CONNECT BELKA 20.12.2018 13:15:50
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:15:50
+CONNECT BELKA 20.12.2018 13:15:58
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:15:58
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:15:58
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:16:00
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:16:00
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:16:09
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:16:20
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:16:20
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:16:40
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\Guitar1.jpg 20.12.2018 13:16:40
+CONNECT BELKA 20.12.2018 13:17:28
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:17:28
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:17:50
+CONNECT BELKA 20.12.2018 13:19:27
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:19:27
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 13:19:42
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 13:19:42
+CONNECT BELKA 20.12.2018 13:20:19
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:20:19
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:20:19
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:20:21
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:20:21
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:20:25
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:20:29
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:20:29
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:20:47
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\Guitar.jpg 20.12.2018 13:20:47
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:21:24
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:21:24
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:21:28
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:21:28
+CONNECT BELKA 20.12.2018 13:21:40
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:21:40
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:21:49
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\ 20.12.2018 13:21:51
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:21:51
+CONNECT BELKA 20.12.2018 13:25:05
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\-a\*.* 20.12.2018 13:25:05
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:25:05
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 13:25:16
+CONNECT BELKA 20.12.2018 13:26:48
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\-a\*.* 20.12.2018 13:26:48
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:26:48
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 13:27:05
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 13:27:14
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 13:27:23
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:28:11
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 13:28:17
+CONNECT BELKA 20.12.2018 13:28:47
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 13:28:47
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\-a\*.* 20.12.2018 13:28:47
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:28:47
+CONNECT BELKA 20.12.2018 13:32:00
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:32:01
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\ 20.12.2018 13:32:22
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\\*.* 20.12.2018 13:32:22
+CONNECT BELKA 20.12.2018 13:32:41
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:32:41
+CONNECT BELKA 20.12.2018 13:33:26
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:33:26
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123 20.12.2018 13:34:02
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 13:34:02
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\ 20.12.2018 13:34:03
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\\*.* 20.12.2018 13:34:03
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy 20.12.2018 13:34:05
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\\*.* 20.12.2018 13:34:05
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\Data123 20.12.2018 13:34:06
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\Data123\\*.* 20.12.2018 13:34:06
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\ 20.12.2018 13:34:07
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy 20.12.2018 13:34:10
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\Guitar.jpg 20.12.2018 13:34:19
+CONNECT BELKA 20.12.2018 13:34:43
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 13:34:50
+CONNECT BELKA 20.12.2018 13:35:15
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 13:35:15
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:35:15
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 13:36:04
+CONNECT BELKA 20.12.2018 13:36:45
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:36:46
+CONNECT BELKA 20.12.2018 13:45:59
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:45:59
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 13:46:06
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 13:46:06
+CONNECT BELKA 20.12.2018 13:47:02
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:47:02
+CONNECT BELKA 20.12.2018 13:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:50:26
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 13:52:36
+CONNECT BELKA 20.12.2018 13:53:11
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 13:53:12
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 13:53:12
+CONNECT BELKA 20.12.2018 14:01:18
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:01:18
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\FtpServer.dpr 20.12.2018 14:01:18
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:01:23
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:01:23
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\FtpServer.dpr 20.12.2018 14:01:23
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:01:23
+CONNECT BELKA 20.12.2018 14:14:27
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:14:27
+CONNECT BELKA 20.12.2018 14:14:59
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:14:59
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 14:15:08
+CONNECT BELKA 20.12.2018 14:24:30
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:24:30
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:24:30
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 14:24:41
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:24:41
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 14:25:06
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:25:07
+CONNECT BELKA 20.12.2018 14:36:23
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:36:23
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123 20.12.2018 14:36:23
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Data123\\*.* 20.12.2018 14:36:23
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\ 20.12.2018 14:36:25
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\\*.* 20.12.2018 14:36:25
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy 20.12.2018 14:36:26
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\\*.* 20.12.2018 14:36:26
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 14:36:33
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\\*.* 20.12.2018 14:36:33
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\..\FtpSMy\Guitar.jpg 20.12.2018 14:36:42
+CONNECT BELKA 20.12.2018 14:37:16
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:37:17
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 14:37:26
+CONNECT BELKA 20.12.2018 14:38:05
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:38:05
+DELETE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 14:38:13
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:38:13
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 14:38:22
+CONNECT BELKA 20.12.2018 14:38:57
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:38:58
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:38:58
+CONNECT BELKA 20.12.2018 14:53:55
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 14:53:55
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 14:53:55
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 14:54:01
+CONNECT BELKA 20.12.2018 16:00:16
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 16:00:16
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 16:00:34
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 16:01:24
+CONNECT BELKA 20.12.2018 16:45:43
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 16:45:44
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 16:45:55
+CONNECT BELKA 20.12.2018 16:46:25
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 16:46:25
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 16:46:25
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 16:55:30
+CONNECT BELKA 20.12.2018 17:01:57
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:01:57
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 17:02:16
+CONNECT BELKA 20.12.2018 17:04:42
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:04:42
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 17:04:53
+CONNECT BELKA 20.12.2018 17:17:58
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 17:17:59
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:17:59
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg 20.12.2018 17:18:09
+CONNECT BELKA 20.12.2018 17:18:43
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 17:18:43
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:18:43
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 17:18:50
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:18:50
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\ 20.12.2018 17:18:52
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\*.* 20.12.2018 17:18:52
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\ 20.12.2018 17:18:53
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\\\*.* 20.12.2018 17:18:53
+CONNECT BELKA 20.12.2018 17:19:08
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:19:09
+RENAME C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 17:20:07
+CONNECT BELKA 20.12.2018 17:20:40
+CD C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\ 20.12.2018 17:20:40
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:20:40
+RETRIEVE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 17:20:56
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 17:21:06
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:21:07
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 17:21:17
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:21:18
+STORE C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\Guitar1.jpg 20.12.2018 17:21:27
+Read Directory C:\Users\Vlad\Desktop\Папа\Энергоблок 1\Энергоблок 1\Programming\FTPS\FtpSMy\\*.* 20.12.2018 17:21:27
+CONNECT BELKA 21.12.2018 15:54:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 21.12.2018 15:54:53
+CONNECT BELKA 21.12.2018 18:23:16
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123 21.12.2018 18:23:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123\\*.* 21.12.2018 18:23:16
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123\Guitar.jpg 21.12.2018 18:23:16
+CONNECT BELKA 22.12.2018 9:24:34
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123 22.12.2018 9:24:36
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123\\*.* 22.12.2018 9:24:36
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123\Guitar.jpg 22.12.2018 9:24:37
+CONNECT BELKA 22.12.2018 10:07:25
+CONNECT BELKA 22.12.2018 10:10:42
+CONNECT BELKA 22.12.2018 10:11:51
+CONNECT BELKA 22.12.2018 10:13:03
+CONNECT BELKA 22.12.2018 10:15:23
+CONNECT BELKA 22.12.2018 10:17:38
+CONNECT BELKA 22.12.2018 10:22:01
+CONNECT BELKA 22.12.2018 10:22:34
+CONNECT BELKA 22.12.2018 10:23:57
+CONNECT BELKA 22.12.2018 10:24:23
+CONNECT BELKA 22.12.2018 10:25:11
+CONNECT BELKA 22.12.2018 10:30:23
+CONNECT BELKA 22.12.2018 10:32:16
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123 22.12.2018 10:32:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123\\*.* 22.12.2018 10:32:22
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Data123\Guitar.jpg 22.12.2018 10:32:23
+CONNECT BELKA 22.12.2018 10:42:59
+CONNECT BELKA 22.12.2018 10:44:13
+CONNECT BELKA 22.12.2018 10:50:06
+CONNECT BELKA 22.12.2018 10:52:57
+CONNECT BELKA 22.12.2018 10:53:52
+CONNECT BELKA 22.12.2018 10:59:25
+CONNECT BELKA 22.12.2018 11:00:23
+CONNECT BELKA 22.12.2018 11:04:06
+CONNECT BELKA 22.12.2018 11:51:19
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 11:52:04
+CONNECT BELKA 22.12.2018 11:53:14
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 11:53:19
+CONNECT BELKA 22.12.2018 12:57:28
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 12:57:33
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 12:57:43
+CONNECT BELKA 22.12.2018 13:00:10
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:00:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:00:14
+CONNECT BELKA 22.12.2018 13:01:58
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:01:59
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:01:59
+CONNECT BELKA 22.12.2018 13:04:03
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:04:04
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:04:04
+CONNECT BELKA 22.12.2018 13:06:52
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:06:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:06:54
+CONNECT BELKA 22.12.2018 13:08:42
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:08:43
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:08:44
+CONNECT BELKA 22.12.2018 13:10:48
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:10:49
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:10:49
+CONNECT BELKA 22.12.2018 13:15:04
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:15:05
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:15:06
+CONNECT BELKA 22.12.2018 13:15:58
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:15:59
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:16:00
+CONNECT BELKA 22.12.2018 13:20:54
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:20:55
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:20:56
+CONNECT BELKA 22.12.2018 13:23:28
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:23:29
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:23:29
+CONNECT BELKA 22.12.2018 13:32:44
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:32:45
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:32:45
+CONNECT BELKA 22.12.2018 13:43:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:43:55
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:45:41
+CONNECT BELKA 22.12.2018 13:46:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:46:54
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:46:59
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 13:48:21
+CONNECT BELKA 22.12.2018 13:48:48
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 13:48:48
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 13:48:48
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 13:49:01
+CONNECT BELKA 22.12.2018 14:22:34
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\ 22.12.2018 14:22:35
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\\*.* 22.12.2018 14:22:35
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\Guitar.jpg 22.12.2018 14:23:44
+CONNECT BELKA 22.12.2018 15:35:28
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:35:29
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 15:35:36
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:35:40
+CONNECT BELKA 22.12.2018 15:36:51
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:36:53
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 15:37:02
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:37:02
+CONNECT BELKA 22.12.2018 15:38:26
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:38:28
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 22.12.2018 15:38:35
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:38:36
+CONNECT BELKA 22.12.2018 15:40:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:40:10
+CONNECT BELKA 22.12.2018 15:42:27
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:42:29
+CONNECT BELKA 22.12.2018 15:43:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:43:15
+CONNECT BELKA 22.12.2018 15:49:33
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:35
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:50
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:50
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:51
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:51
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:51
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:51
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:51
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:52
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:52
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:52
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:52
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:52
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:53
+CONNECT BELKA 22.12.2018 15:49:54
+CONNECT BELKA 22.12.2018 15:49:54
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 15:49:55
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 15:49:55
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:55
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:49:56
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:17
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:18
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:19
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:20
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:21
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:23
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:24
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:26
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:26
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:26
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:26
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:26
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:50:26
+CONNECT BELKA 22.12.2018 15:51:00
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:51:21
+CONNECT BELKA 22.12.2018 15:53:38
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:53:46
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:54:04
+CONNECT BELKA 22.12.2018 15:55:25
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:26
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:42
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:42
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:42
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:42
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:42
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:43
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:43
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:43
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:43
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:43
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:44
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:44
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:44
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:44
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:44
+CONNECT BELKA 22.12.2018 15:55:45
+CONNECT BELKA 22.12.2018 15:55:45
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 15:55:46
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 15:55:46
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:47
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:55:47
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:07
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:10
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:12
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:13
+CONNECT BELKA 22.12.2018 15:56:49
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:56:51
+CONNECT BELKA 22.12.2018 15:58:51
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:58:52
+CONNECT BELKA 22.12.2018 15:59:57
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 15:59:59
+CONNECT BELKA 22.12.2018 16:01:03
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:01:05
+CONNECT BELKA 22.12.2018 16:02:02
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:02:21
+CONNECT BELKA 22.12.2018 16:02:42
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:02:47
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:02:54
+CONNECT BELKA 22.12.2018 16:03:47
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:03:57
+CONNECT BELKA 22.12.2018 16:06:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:06:55
+CONNECT BELKA 22.12.2018 16:07:56
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:07:58
+CONNECT BELKA 22.12.2018 16:13:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:13:55
+CONNECT BELKA 22.12.2018 16:14:35
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:14:36
+CONNECT BELKA 22.12.2018 16:15:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:15:17
+CONNECT BELKA 22.12.2018 16:16:03
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:16:04
+CONNECT BELKA 22.12.2018 16:17:14
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:17:15
+CONNECT BELKA 22.12.2018 16:18:22
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:18:23
+CONNECT BELKA 22.12.2018 16:19:15
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:19:17
+CONNECT BELKA 22.12.2018 16:24:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:24:13
+CONNECT BELKA 22.12.2018 16:38:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:38:09
+CONNECT BELKA 22.12.2018 16:40:04
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:40:06
+CONNECT BELKA 22.12.2018 16:41:13
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:41:14
+CONNECT BELKA 22.12.2018 16:45:35
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:45:37
+CONNECT BELKA 22.12.2018 16:45:57
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:45:59
+CONNECT BELKA 22.12.2018 16:46:32
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:46:33
+CONNECT BELKA 22.12.2018 16:46:44
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:46:46
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:46:55
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:46:56
+CONNECT BELKA 22.12.2018 16:49:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:49:55
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:50:04
+CONNECT BELKA 22.12.2018 16:50:20
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:50:21
+STORE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:50:42
+CONNECT BELKA 22.12.2018 16:51:03
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:51:04
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:51:13
+CONNECT BELKA 22.12.2018 16:52:09
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:52:11
+STORE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:52:29
+CONNECT BELKA 22.12.2018 16:52:49
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:52:50
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:53:03
+DELETE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:53:48
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:53:48
+STORE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:53:54
+CONNECT BELKA 22.12.2018 16:54:15
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:54:16
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:54:20
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:54:47
+CONNECT BELKA 22.12.2018 16:55:02
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:55:03
+CONNECT BELKA 22.12.2018 16:55:43
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:55:43
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\..\ 22.12.2018 16:55:52
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\..\\*.* 22.12.2018 16:55:52
+CONNECT BELKA 22.12.2018 16:56:36
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:56:36
+CONNECT BELKA 22.12.2018 16:58:01
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:58:02
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:58:13
+CONNECT BELKA 22.12.2018 16:58:28
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:58:29
+STORE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 16:58:46
+CONNECT BELKA 22.12.2018 16:59:07
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 16:59:08
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:59:15
+CONNECT BELKA 22.12.2018 16:59:53
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 16:59:53
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 17:00:00
+CONNECT BELKA 22.12.2018 17:00:15
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 17:00:15
+CONNECT BELKA 22.12.2018 17:01:03
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 17:01:04
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 17:01:12
+CONNECT BELKA 22.12.2018 17:01:27
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 17:01:27
+CONNECT BELKA 22.12.2018 17:01:42
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 17:01:42
+CONNECT BELKA 22.12.2018 17:02:11
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 22.12.2018 17:02:11
+RETRIEVE C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 22.12.2018 17:02:20
+CONNECT BELKA 22.12.2018 17:02:36
+CD C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\ 22.12.2018 17:02:36
+CONNECT BELKA 28.12.2018 18:09:39
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 28.12.2018 18:09:39
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg 28.12.2018 18:09:59
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 28.12.2018 18:09:59
+CONNECT BELKA 11.01.2019 17:01:27
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 11.01.2019 17:01:28
+RENAME C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar.jpg C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\Guitar1.jpg 11.01.2019 17:01:38
+Read Directory C:\Users\Vlad\Desktop\Папа\ProbaSocket\FTPS\FtpSMy\\*.* 11.01.2019 17:01:38

@@ -1,0 +1,38 @@
+Received: from mxback19g.mail.yandex.net ([127.0.0.1])
+	by mxback19g.mail.yandex.net with LMTP id 0EXqaZbG
+	for <vladarkad7@yandex.com>; Mon, 24 Dec 2018 21:27:09 +0300
+Received: from mxback19g.mail.yandex.net (localhost.localdomain [127.0.0.1])
+	by mxback19g.mail.yandex.net (Yandex) with ESMTP id 254B95340DF5
+	for <vladarkad7@yandex.com>; Mon, 24 Dec 2018 21:27:09 +0300 (MSK)
+X-Yandex-Internal: 1
+Received: from localhost (localhost [::1])
+	by mxback19g.mail.yandex.net (nwsmtp/Yandex) with ESMTP id 5jzLFl0bpV-R8dSpGbg;
+	Mon, 24 Dec 2018 21:27:08 +0300
+X-Yandex-Front: mxback19g.mail.yandex.net
+X-Yandex-TimeMark: 1545676028
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.com; s=mail; t=1545676028;
+	bh=47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=;
+	h=From:To:Subject:Date:Message-Id;
+	b=jXZsSrzcGZap8HjtKgbfWwRu7b71jogA7QO0L/FLC8nM8e3cTeCO89zeOeLZbTJjo
+	 38GC/fsvxi2NJCyriDJiIe38dyi5ykjjw/TnMAxoC7XhpWECv+5z/RpOo8Myu9DoZ6
+	 rP7STq6NwNBTC+m+CSSE1mmgLLbioS8o2QXrIxS0=
+Authentication-Results: mxback19g.mail.yandex.net; dkim=pass header.i=@yandex.com
+X-Yandex-Spam: 1
+X-Yandex-Sender-Uid: 796141287
+Received: by sas1-ea1d14049a51.qloud-c.yandex.net with HTTP;
+	Mon, 24 Dec 2018 21:27:08 +0300
+From: "alkash alkashevich" <vladarkad7@yandex.com>
+Envelope-From: vladarkad7@yandex.ru
+To: vladarkad7@yandex.com
+Subject: bye
+MIME-Version: 1.0
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Mon, 24 Dec 2018 13:27:08 -0500
+Message-Id: <2465901545676028@sas1-ea1d14049a51.qloud-c.yandex.net>
+Content-Type: text/plain; charset=us-ascii
+Return-Path: vladarkad7@yandex.com
+X-YandexSms-Digest: 0bc2a315d0eca4507b7bd32f28411628
+In-Reply-To: <2465901545676028@sas1-ea1d14049a51.qloud-c.yandex.net>
+
+
+.

@@ -1,0 +1,369 @@
+unit U_Ftp;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, IdBaseComponent, IdComponent, IdTCPServer, IdFTPServer, IdFTPList,
+  StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    IdFTPServer1: TIdFTPServer;
+    Memo1: TMemo;
+
+    procedure IdFTPServerGetFileDate(ASender: TIdFTPServerThread;
+     const AFilename: string; var VFileDate: TDateTime);
+    procedure IdFTPServerFileExistCheck(ASender: TIdFTPServerThread;
+      const APathName: string; var VExist: Boolean);
+    procedure IdFTPServerCRCFile(ASender: TIdFTPServerThread;
+      const AFileName: string; var VStream: TStream);
+    procedure IdFTPServer1AfterUserLogin(ASender: TIdFTPServerThread);
+    procedure IdFTPServer1ChangeDirectory(ASender: TIdFTPServerThread;
+      var VDirectory: String);
+    procedure FormCreate(Sender: TObject);
+    procedure IdFTPServer1DeleteFile(ASender: TIdFTPServerThread;
+      const APathName: String);
+    procedure IdFTPServer1GetFileSize(ASender: TIdFTPServerThread;
+      const AFilename: String; var VFileSize: Int64);
+    procedure IdFTPServer1MakeDirectory(ASender: TIdFTPServerThread;
+      var VDirectory: String);
+    procedure IdFTPServer1RemoveDirectory(ASender: TIdFTPServerThread;
+      var VDirectory: String);
+    procedure IdFTPServer1RenameFile(ASender: TIdFTPServerThread;
+      const ARenameFromFile, ARenameToFile: String);
+    procedure IdFTPServer1RetrieveFile(ASender: TIdFTPServerThread;
+      const AFileName: String; var VStream: TStream);
+    procedure IdFTPServer1StoreFile(ASender: TIdFTPServerThread;
+      const AFileName: String; AAppend: Boolean; var VStream: TStream);
+    procedure IdFTPServer1UserLogin(ASender: TIdFTPServerThread;
+      const AUsername, APassword: String; var AAuthenticated: Boolean);
+    procedure IdFTPServer1ListDirectory(ASender: TIdFTPServerThread;
+      const APath: String; ADirectoryListing: TIdFTPListItems);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+  private
+    function ReplaceChars(APath: String): String;
+    function GetSizeOfFile(AFile : String) : Integer;
+//    function RemoveTrailingPathDel(const AData : String) : String;
+//    function GetFileDate(AFile : String) : TDateTime;
+    function TDateTimeToFileTime(const ADateTime : TDateTime) : TFileTime;
+    function FileTimeToTDateTime(const AFileTime : TFileTime) : TDateTime;
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+const
+  LogName='LogFile.txt';
+  Max_log_count=10;
+var
+  Form1: TForm1;
+  AppDir      : String;
+
+implementation
+
+{$R *.dfm}
+
+Procedure Add_to_Memo(__str : ansistring; Memo1 : Tmemo);
+var
+   __str1, __strs : ansistring;
+begin
+ __str1:=__str+' '+DateTimeToStr(Now);
+ if Memo1.Lines.count=Max_log_count then
+   begin
+    __strs:=Memo1.Lines.strings[Memo1.Lines.count-1];
+    Memo1.Lines.Insert(0, __str1);
+    Memo1.Lines.Insert(0, __strs);
+    Memo1.Lines.Delete(Memo1.Lines.count-1);
+    Memo1.Lines.Delete(Memo1.Lines.count-1);
+   end {if}
+ else Memo1.Lines.Add(__str1);
+end;{Add_to_Memo}
+
+function TForm1.ReplaceChars(APath:String):String;
+var
+ s:string;
+begin
+  s := StringReplace(APath, '/', '\', [rfReplaceAll]);
+  s := StringReplace(s, '\\', '\', [rfReplaceAll]);
+  Result := s;
+end;
+
+function TForm1.GetSizeOfFile(AFile : String) : Integer;
+var
+ FStream : TFileStream;
+begin
+  Try
+    FStream := TFileStream.Create(AFile, fmOpenRead);
+    Try
+      Result := FStream.Size;
+    Finally
+      FreeAndNil(FStream);
+    End;
+  Except
+    Result := 0;
+  End;
+end;
+
+procedure TForm1.IdFTPServer1AfterUserLogin(ASender: TIdFTPServerThread);
+begin
+ //important - you really do need to set a currect directory it will drive
+//some GUI FTP clients bonkers.
+  ASender.CurrentDir := '/';
+  ASender.HomeDir := '/';
+
+end;
+
+procedure TForm1.IdFTPServer1ChangeDirectory(ASender: TIdFTPServerThread;
+  var VDirectory: String);
+var Msg : String;
+begin
+   //Note that you really should have a way a way of preventing
+  //a CWD command from accessing something higher than your intended hiearchy.
+  //
+  //That's a BIG security flaw that some attackers will exploit.
+  //
+  //You also should have a way of preventing the "VDirectory" from reflecting
+  //your real computer directory structure.
+  if  SysUtils.DirectoryExists(ReplaceChars(AppDir+'\'+VDirectory)) then
+  begin
+   Add_to_Memo('CD '+ReplaceChars(AppDir+'\'+VDirectory), Memo1);
+  end
+  else
+  begin
+    //You do NOT want to expose the directory name if an error happens.
+    //Sometimes, that can tell a trouble maker quite a bit about your system.
+    //On other hand, durring development, you probably want to know.
+    Msg :=  VDirectory;
+    VDirectory := ASender.CurrentDir;
+    raise Exception.Create('Directory '+Msg+' not found');
+  end;
+
+end;
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+ AppDir := ExtractFilePath(Application.Exename);
+ if not FileExists (AppDir+LogName) then Memo1.Lines.SaveToFile(AppDir+LogName)
+ else Memo1.Lines.LoadFromFile(AppDir+LogName)
+end;
+
+procedure TForm1.IdFTPServer1DeleteFile(ASender: TIdFTPServerThread;
+  const APathName: String);
+begin
+   DeleteFile(ReplaceChars(AppDir+'\'+APathname));
+   Add_to_Memo('DELETE '+ReplaceChars(AppDir+'\'+APathname), Memo1);
+
+end;
+
+procedure TForm1.IdFTPServer1GetFileSize(ASender: TIdFTPServerThread;
+  const AFilename: String; var VFileSize: Int64);
+Var
+ LFile : String;
+begin
+  //we return -1 for an error
+  LFile := ReplaceChars( AppDir + AFilename );
+  try
+    If FileExists(LFile) then
+      VFileSize :=  GetSizeOfFile(LFile)
+    else
+      VFileSize := -1;
+    except
+      VFileSize := -1;
+   end;
+end;
+
+
+procedure TForm1.IdFTPServer1MakeDirectory(ASender: TIdFTPServerThread;
+  var VDirectory: String);
+begin
+   if not ForceDirectories(ReplaceChars(AppDir+'\'+ VDirectory)) then
+  begin
+    Raise Exception.Create('Unable to create directory');
+  end
+  else
+  begin
+   Add_to_Memo('MD '+ReplaceChars(AppDir+'\'+ VDirectory), Memo1);
+  end;{else}
+
+end;
+
+procedure TForm1.IdFTPServer1RemoveDirectory(ASender: TIdFTPServerThread;
+  var VDirectory: String);
+Var
+ LFile : String;
+begin
+  LFile := ReplaceChars(AppDir+'\'+VDirectory);
+  // You should delete the directory here.
+  // TODO
+  if not RemoveDir(LFile) then
+  begin
+    Raise Exception.Create('Unable to remove directory');
+  end
+  else
+    begin
+     Add_to_Memo('RD '+ReplaceChars(AppDir+'\'+ VDirectory), Memo1);
+    end;{else}
+
+end;
+
+procedure TForm1.IdFTPServer1RenameFile(ASender: TIdFTPServerThread;
+  const ARenameFromFile, ARenameToFile: String);
+begin
+   SysUtils.RenameFile(ReplaceChars(AppDir + '/'+ ARenameFromFile),ReplaceChars(AppDir +'/'+ARenameToFile));
+   Add_to_Memo('RENAME '+ReplaceChars(AppDir + '/'+ ARenameFromFile)+' '+ReplaceChars(AppDir +'/'+ARenameToFile), Memo1);
+end;
+
+procedure TForm1.IdFTPServer1RetrieveFile(ASender: TIdFTPServerThread;
+  const AFileName: String; var VStream: TStream);
+begin
+  VStream := TFileStream.Create(ReplaceChars(AppDir+AFilename),fmOpenRead);
+  Add_to_Memo('RETRIEVE '+ReplaceChars(AppDir+AFilename), Memo1);
+
+end;
+
+procedure TForm1.IdFTPServer1StoreFile(ASender: TIdFTPServerThread;
+  const AFileName: String; AAppend: Boolean; var VStream: TStream);
+begin
+ if not Aappend then
+ begin
+   VStream := TFileStream.Create(ReplaceChars(AppDir+AFilename),fmCreate)
+ end
+ else
+ begin
+   VStream := TFileStream.Create(ReplaceChars(AppDir+AFilename),fmOpenWrite)
+ end;
+
+end;
+
+procedure TForm1.IdFTPServer1UserLogin(ASender: TIdFTPServerThread;
+  const AUsername, APassword: String; var AAuthenticated: Boolean);
+begin
+  // We just set AAuthenticated to true so any username / password is accepted
+ // You should check them here - AUsername and APassword
+  AAuthenticated := False;
+  if AUsername='' then;
+  if APassword='' then;
+  AAuthenticated := True;
+  Add_to_Memo('CONNECT '+AUsername, Memo1);
+
+end;
+
+procedure TForm1.IdFTPServer1ListDirectory(ASender: TIdFTPServerThread;
+  const APath: String; ADirectoryListing: TIdFTPListItems);
+var
+ LFTPItem :TIdFTPListItem;
+ SR : TSearchRec;
+ SRI : Integer;
+ LTmpPath : String;
+
+begin
+ //You should at least honor the laT switches because are listed in the FEAT
+ //reply.
+ //
+
+(*
+  if Pos('s',ASwitches)>0 then
+  begin
+    ADirectoryListing.Switches := ADirectoryListing.Switches + 's';
+  end;
+*)
+
+    // we do it this way because if a dir such as /pub is passed as a parameter,
+    //You probably want the contents of it.
+    LTmpPath := ReplaceChars(AppDir +ASender.HomeDir + APath);
+
+    if DirectoryExists(LTmpPath) then
+    begin
+      LTmpPath := LTmpPath + '\*.*';
+    end
+    else
+    begin
+      LTmpPath := LTmpPath + '*.*';
+    end;
+
+  SRI := FindFirst(LTmpPath, faAnyFile , SR);// - faHidden - faSysFile, SR);
+
+  While SRI = 0 do
+  begin
+    LFTPItem := ADirectoryListing.Add;
+    LFTPItem.FileName := SR.Name;
+
+    //This is necessary because the Borland RTL FindData Size is an Integer and can't handle
+    //anything greater than 2GB.
+    LFTPItem.Size := Int64(SR.FindData.nFileSizeHigh shl 32) + SR.FindData.nFileSizeLow;
+    //for Unix lists, you should get a block count.  In Win32 with CygWin, that's
+    //the size of the file div 1024 and rounded up.
+    //not only do need to support it with the -s switch but it's listed in the "total" header
+    //in a Unix listing
+    (*
+    LFTPItem.NumberBlocks := LFTPItem.Size div 1024;
+    if LFTPItem.Size mod 1024 > 0 then
+    begin
+
+      LFTPItem.NumberBlocks := LFTPItem.NumberBlocks + 1;
+    end;
+    *)
+    //We don't use the DosDate from Borland's FindFirst, FindNext for two reasons:
+    //1: We should be dealing with GMT time in all cases.  For Unix and WinNT style lists,
+    //   it will be converted to LocalTime.
+    //2: The Win32_FIND_DATA record has more information than simply the last modified date
+    //   and the MLSD/MLST command permits us to return all of this in a standardized way.
+    //   Indy can support a "Create", "Modified" and "windows.lastaccess" fact.
+    //   For Linux, the POSIX filesystem, you would want to support only the Modified fact
+    //   for file dates.
+//    LFTPItem.ModifiedDateGMT := FileTimeToTDateTime( SR.FindData.ftLastWriteTime);
+//    LFTPItem.CreationDateGMT := FileTimeToTDateTime( SR.FindData.ftCreationTime);
+//    LFTPItem.LastAccessDateGMT := FileTimeToTDateTime( SR.FindData.ftLastAccessTime);
+//    LFTPItem.WinAttribs := SR.FindData.dwFileAttributes;
+    (*
+    if SR.Attr and faDirectory > 0 then
+    begin
+      LFTPItem.ItemType   := ditDirectory;
+      (*
+      if SR.Attr and faReadOnly=faReadOnly then
+      begin
+        LFTPItem.UnixOwnerPermissions := 'r-x';
+        LFTPItem.UnixGroupPermissions := 'r-x';
+        LFTPItem.UnixOtherPermissions := 'r-x';
+      end
+      else
+      begin
+        LFTPItem.UnixOwnerPermissions := 'rwx';
+        LFTPItem.UnixGroupPermissions := 'rwx';
+        LFTPItem.UnixOtherPermissions := 'rwx';
+      end;
+    end
+    else
+    begin
+      LFTPItem.ItemType   := ditFile;
+      if SR.Attr and faReadOnly=faReadOnly then
+      begin
+        LFTPItem.UnixOwnerPermissions := 'r--';
+        LFTPItem.UnixGroupPermissions := 'r--';
+        LFTPItem.UnixOtherPermissions := 'r--';
+      end
+      else
+      begin
+        LFTPItem.UnixOwnerPermissions := 'rw-';
+        LFTPItem.UnixGroupPermissions := 'rw-';
+        LFTPItem.UnixOtherPermissions := 'rw-';
+      end;
+    end;
+      *)
+
+    SRI := FindNext(SR);
+  end;
+  FindClose(SR);
+//  SetCurrentDir(AppDir + APath + '\..');
+end;
+
+procedure TForm1.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+ Memo1.Lines.SaveToFile(AppDir+LogName);
+end;
+
+
+
+end.
+

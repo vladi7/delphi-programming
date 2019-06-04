@@ -1,0 +1,41 @@
+unit U_thread;
+
+interface
+
+uses
+  Classes;
+
+type
+  Tcalcthread = class(TThread)
+  private
+    { Private declarations }
+  protected
+    procedure Execute; override;
+    public
+    flag_t : boolean;
+  end;
+
+implementation
+uses Unit_data;
+{ Important: Methods and properties of objects in visual components can only be
+  used in a method called using Synchronize, for example,
+
+      Synchronize(UpdateCaption);
+
+  and UpdateCaption could look like,
+
+    procedure Tcalcthread.UpdateCaption;
+    begin
+      Form1.Caption := 'Updated in a thread';
+    end; }
+
+{ Tcalcthread }
+
+procedure Tcalcthread.Execute;
+begin
+ GLobal_optimization;
+ flag_t:=True;
+  { Place thread code here }
+end;
+
+end.
